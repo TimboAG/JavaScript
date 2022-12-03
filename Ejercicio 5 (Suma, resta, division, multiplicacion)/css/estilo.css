@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: antiquewhite;
+}
+.card {
+  text-align: center;
+  margin: auto auto;
+  margin-top: 5%;
+  max-width: 38rem;
+}
+#imagen {
+  max-width: 18rem;
+  text-align: center;
+}
+#signo {
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 1%;
+  font-size: 18px;
+}
